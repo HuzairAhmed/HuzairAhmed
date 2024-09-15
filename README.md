@@ -23,7 +23,7 @@ Outside of class, you'll find me tinkering with code projects and keeping up wit
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobephotoshop logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   </div>
