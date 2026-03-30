@@ -1,9 +1,17 @@
 ***
 # About Me :sparkles:
 <img align="right" src="https://cdn.discordapp.com/attachments/1205043829548392480/1209889444253929532/Github_Gif_-_Made_with_Clipchamp_1.gif?ex=660d7a5a&is=65fb055a&hm=fc7b53c8b61e9cc65f2bf51652c43bda1fa6978f46d95562682d5980bf53fd5c&" width="360" height="500">
-<p>Hey there! I'm Huzair Ahmed Panhwer, currently diving into pre-medical studies for my intermediate education. But my true passion lies in technology, so I'm gearing up to pursue a Bachelor of Science in Information Technology (BS IT).
-I'm all about exploring the tech world, from coding to network setups. Despite my medical background, I'm eager to dive headfirst into IT, learning programming languages, system management, and cybersecurity along the way.
-Outside of class, you'll find me tinkering with code projects and keeping up with the latest tech trends. Let's connect and learn together!
+<p>🎓 Student | 📚 Learning Enthusiast.
+
+👋 Hello there! I’m Huzair Ahmed, currently pursuing my Bachelor's in Computer Science at Mohammad Ali Jinnah University. As a responsible and detail-oriented individual, I’m eager to embark on my first professional journey in the tech industry.
+
+I have honed skills in graphic design, creating visually engaging and socially impactful art in my spare time. My academic path has also equipped me with a solid foundation in computer science principles, preparing me to tackle real-world challenges.
+
+🏃 Outside the classroom and design software, I enjoy traveling to experience new cultures and broaden my horizons. This passion for exploring new places encourages adaptability and a keen sense of observation, traits that I believe will be beneficial in a dynamic work environment.
+
+💼 While I may be new to the workforce, my dedication to learning and my ability to communicate fluently in Sindhi, English, and Urdu make me a valuable addition to any team. I’m enthusiastic about applying my technical and creative skills in a professional setting, contributing to projects, and growing alongside experienced professionals.
+
+Feel free to reach out if you’re looking for a passionate and curious individual ready to contribute and learn. Let's connect! 🤝
 </p>
 
 # Languages & Tools :computer:
@@ -26,7 +34,7 @@ Outside of class, you'll find me tinkering with code projects and keeping up wit
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobephotoshop logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thu…O_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="windows8 logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thu…O_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png"  />
   </div>
 </br>
 </br>
