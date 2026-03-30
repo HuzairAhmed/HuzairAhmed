@@ -26,6 +26,7 @@ Outside of class, you'll find me tinkering with code projects and keeping up wit
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobephotoshop logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thu…O_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="windows8 logo"  />
   </div>
 </br>
 </br>
